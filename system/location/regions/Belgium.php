@@ -1,0 +1,10 @@
+Antwerpen
+Henegouwen
+Luik
+Limburg
+Luxemburg
+Namen
+Oost-Vlaanderen
+Vlaams-Brabant
+Waals-Brabant
+West-Vlaanderen

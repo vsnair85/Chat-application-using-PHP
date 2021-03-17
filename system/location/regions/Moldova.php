@@ -1,0 +1,37 @@
+Anenii Noi
+Balti
+Basarabeasca
+Bender
+Briceni
+Cahul
+Calarasi
+Cantemir
+Causeni
+Chisinau
+Cimislia
+Criuleni
+Donduseni
+Drochia
+Dubasari
+Edinet
+Falesti
+Floresti
+Gagauzia
+Glodeni
+Hincesti
+Ialoveni
+Leova
+Nisporeni
+Ocnita
+Orhei
+Rezina
+Riscani
+Singerei
+Soldanesti
+Soroca
+Stefan-Voda
+Stinga Nistrului
+Straseni
+Taraclia
+Telenesti
+Ungheni

@@ -1,0 +1,53 @@
+﻿#upload_top {
+	padding-bottom:5px;
+}
+#upload_bottom {
+	padding-top:10px;
+}
+#file_image {
+	margin-top:10px;
+}
+.submit_image {
+	border-radius:8px;
+	padding:8px 0;
+	margin:8px 0;
+}
+.image_container {
+	height:40px;
+	width:100%;
+	padding:5px 0;
+	border-radius:20px;
+	margin-bottom:10px;
+}
+.view_image {
+	height:100%;
+	float:left;
+	margin-right:5px;
+	margin-left:10px;
+}
+.link_image {
+	height:100%;
+	float:left;
+	max-width:120px;
+	overflow:hidden;
+}
+.link_image p {
+	margin-top:10px;
+	margin-left:6px;
+}
+.delete_image {
+	width:40px;
+	height:100%;
+	float:right;
+	margin-right:5px;
+}
+.copy_image {
+	width:40px;
+	height:100%;
+	float:left;
+	margin-left:5px;
+}
+.view_image img, .delete_image img , .copy_image img {
+	height:100% !important;
+	width:auto;
+}

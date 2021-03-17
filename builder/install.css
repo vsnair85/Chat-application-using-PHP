@@ -1,0 +1,163 @@
+html { margin: 0em; padding: 0; height:100%; width:100%;}
+a {outline:none;}
+body { margin:0; padding: 0; font-family: sans-serif,'trebuchet ms','lucida grande','lucida sans unicode',arial,helvetica,sans-serif; 
+font-size:15px; width:100%;height:100%; color:#fff;}
+input:focus, select:focus, textarea:focus, button:focus {outline:0;}
+p {padding:0; margin:0;}
+img {border:0px;}
+h1, h2, h3{ margin: 0; padding: 0; }
+h2 {font-size:1.5em; margin-bottom:5px;}
+ul { margin: 0; padding: 0; list-style:none;}
+li {list-style:none;}
+button { border:none; font-weight:bold;}
+
+
+#external_wrap {
+	width:100%;
+	height:100%;
+	background:#222;
+}
+#installer_box  {
+     position:absolute;
+     width:600px;
+     height:auto;
+     z-index:15;
+     top:50%;
+     left:50%;
+	 padding:20px;
+     margin:-220px 0 0 -320px;
+}
+#connection_box {
+	position:absolute;
+	width:600px;
+	height:auto;
+	z-index:15;
+	top:50%;
+	left:50%;
+	padding:20px;
+	margin:-120px 0 0 -320px;
+}
+#connection_box, #installer_box {
+	box-shadow: 0 0 10px #000;
+}
+#header {
+	width:100%;
+	height:70px;
+	border-bottom:1px solid #000;
+	padding-bottom:10px;
+}
+#header img {
+	height:100%;
+	width:auto;
+}
+#content_installer {
+	width:100%;
+	padding-top:20px;
+	border-top:1px solid #333;
+	height:auto;
+}
+#content_connection {
+	width:100%;
+	height:98px;
+	border-top:1px solid #333;
+	padding-top:20px;
+}
+#intro_installer {
+	text-align:center;
+	width:100%;
+	height:auto;
+	margin-bottom:20px;
+}
+#intro_installer h2 {
+	font-size:30px;
+	margin-bottom:10px;
+	margin-top:20px;
+}
+#intro_installer p {
+	font-size:18px;
+	margin-bottom:20px;
+}
+.writable {
+	width:80%;
+	height:auto;
+	border:1px solid #333;
+	font-size:20px;
+	margin:0 auto;
+	margin-bottom:10px;
+	padding:10px 5px;
+	text-align:center;
+	color:#02c9d0;
+}
+.writable span {
+	color:#fff;
+}
+#container_permission {
+	text-align:center;
+	margin-bottom:20px;
+}
+.install_button {
+	width:50%;
+	height:45px;
+	padding:8px;
+	background:none !important;
+	border:1px solid #333;
+	color:#fff;
+	font-size:20px;
+	border-radius:20px;
+}
+.permission_button {
+	margin-top:15px;
+}
+.half_table_left, .half_table_right {
+	width:50%;
+	float:left;
+}
+.table_zone input {
+	width:80%;
+	float:right;
+	margin-right:10%;
+	margin-bottom:5px;
+}
+.table_zone h3 {
+	margin-left:10%;
+	color:#02c9d0;
+}
+.table_zone p {
+	margin-left:10%;
+	margin-bottom:5px;
+	margin-top:-3px;
+}
+#table_error {
+	height:20px;
+	width:100%;
+	margin-bottom:5px;
+	color:red;
+	text-align:center;
+}
+#install_component, #create_account {
+	width:80%;
+	height:45px;
+	padding-top:8px;
+	padding-bottom:8px;
+	border:1px solid #333;
+	background:none;
+	color:#fff;
+	border-radius:20px;
+	font-size:20px;
+	margin-left:10%;
+	margin-top:20px;
+}
+#install_logo {
+	width:200px;
+	height:auto;	
+	float:left;
+}
+#install_error {
+	width:380px;
+	height:30px;
+	margin-top:46px;
+	height:auto;
+	float:right;
+	text-align:right;
+	color:red;
+}

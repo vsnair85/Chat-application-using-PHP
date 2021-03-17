@@ -1,0 +1,17 @@
+Bamingui-Bangoran
+Bangui
+Basse-Kotto
+Cuvette-Ouest
+Haut-Mbomou
+Haute-Kotto
+Kemo
+Lobaye
+Mambere-Kadei
+Mbomou
+Nana-Grebizi
+Nana-Mambere
+Ombella-Mpoko
+Ouaka
+Ouham
+Ouham-Pende
+Sangha-Mbaere

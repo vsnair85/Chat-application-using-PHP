@@ -1,0 +1,1 @@
+<a target="_blank" href="http://codecanyon.net/item/boomchat/7182237?ref=BoomCoding"><img border="0" src="ads/default_ad/code5.png"></a>

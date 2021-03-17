@@ -1,0 +1,1 @@
+<a target="_blank" href="http://codecanyon.net"><img border="0" src="ads/default_ad/code2.png" width="728" height="90"></a>

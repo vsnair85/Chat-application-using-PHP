@@ -1,0 +1,36 @@
+.load_option {
+	float:left;
+	margin-left:10px;
+	margin-right:7px;
+}
+#playbtn {
+	min-width:35px;
+}
+#wrap_options {
+	width:164px;
+	height:auto;
+	z-index:10000;
+	position:absolute;
+	bottom:100%;
+	right:-70px;
+	display:none;
+	padding:2px 5px;
+	border-radius:8px;
+}
+#wrap_options img {
+	display:block;
+	float:left;
+	width:35px;
+	height:35px;
+}
+.addon_options {
+	margin:3px;
+}
+#addon_container {
+	padding:5px 0;
+}
+#option_title {
+	padding:3px 0;
+	height:17px;
+	font-size:12px;
+}

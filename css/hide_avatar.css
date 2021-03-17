@@ -1,0 +1,9 @@
+.chat_avatar_wrap img, .chat_avatar_wrap2 img {
+	display:none;
+}
+.chat_avatar_wrap, .chat_avatar_wrap2 {
+	display:none;
+}
+.my_text {
+	padding-left:0;
+}

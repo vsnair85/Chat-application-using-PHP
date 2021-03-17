@@ -1,0 +1,18 @@
+#main_emoticon {
+	padding:5px 0;
+	border-radius:0 0 5px 5px;
+}
+#room_topic {
+	padding: 5px 0 10px;
+}
+#show_chat ul {
+	position:absolute;
+	bottom:0;
+	max-height:100%;
+	overflow-y:auto;
+}
+#chat_error {
+	position:absolute;
+	bottom:0;
+	margin-bottom:0;
+}

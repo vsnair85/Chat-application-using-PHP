@@ -1,0 +1,9 @@
+Burgenland
+Karnten
+Niederosterreich
+Oberosterreich
+Salzburg
+Steiermark
+Tirol
+Vorarlberg
+Wien

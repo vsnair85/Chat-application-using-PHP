@@ -1,0 +1,12 @@
+Berat
+Diber
+Durres
+Elbasan
+Fier
+Gjirokaster
+Korce
+Kukes
+Lezhe
+Shkoder
+Tirane
+Vlore

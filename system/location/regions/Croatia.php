@@ -1,0 +1,21 @@
+Bjelovarsko-Bilogorska
+Brodsko-Posavska
+Dubrovacko-Neretvanska
+Grad Zagreb
+Istarska
+Karlovacka
+Koprivnicko-Krizevacka
+Krapinsko-Zagorska
+Licko-Senjska
+Medimurska
+Osjecko-Baranjska
+Pozesko-Slavonska
+Primorsko-Goranska
+Sibensko-Kninska
+Sisacko-Moslavacka
+Splitsko-Dalmatinska
+Varazdinska
+Viroviticko-Podravska
+Vukovarsko-Srijemska
+Zadarska
+Zagrebacka

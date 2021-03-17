@@ -1,0 +1,92 @@
+/* general colors */
+a {color:blue;}
+body {color:#fff; background:#fff url('images/Pinky_winky.png');}
+button { background:transparent; color:#fff; }
+#external_wrap {}
+
+/* background color for box element */
+.background_chat, .background_login { background:#ccc; box-shadow:0 0 5px #444;}
+.background_box { background:#fff; color:#111; border:none;}
+.background_menu_footer { background:#999; border-top:1px solid #ccc; }
+.panels { background:#b1b1b1; box-shadow:0 0 5px #444; }
+#chat_error { background:#111; }
+#inner_header, #header_login  { background: url('logo/Pinky_winky_logo.png'); background-repeat:no-repeat; background-size:auto 100%; background-position:left center; }
+#menu_private { background:#999;}
+
+/* chat logs switch colors */
+.log1 {	background:none; }
+.log2 { background:#f5f5f5; }
+.ch_logs { border-bottom:none;}
+
+/* separator colors */
+.user_separator { border-bottom:1px solid #ccc; }
+.user_option_separator { border-bottom:1px solid #444; }
+.top_separator { border-top:1px solid #ccc; }
+.right_separator { border-right:1px solid #444; }
+.bottom_separator { border-bottom:1px solid #808080; }
+
+/* user list drop down colors */
+.user_option_list { background:#555; color:#fff; }
+
+/* button and element colors */
+.sub_button { background:#999; color:#fff;}
+#submit_button { background: #f68bf9; color:#fff;} /* this is main button send */
+.sub_element { background:#808080; color:#fff;}
+.empty_element { background:#999; color:#fff; }
+.selected_element { background:#f68bf9; color:#fff; }
+.hover_element:hover { background:#666; color:#fff;}
+
+/* ads background */
+#show_chat_ads { background:#222 !important;}
+
+/* special colors and sub colors */
+.error { color:red;}
+.success { color:green;}
+.away { color:#666; }
+.my_notice { background:#ffff99; padding:3px;}
+.sub_color2 { color:#fff;}
+.sub_color { color:#fff; }
+.hide_private_title { color:#ccc; }
+.topic {margin-left:5px; color:#f868fc; }
+#room_topic { background:#bbb; }
+.room_userin { color:#fff; }
+.wrap_command:hover { background:#666 !important; }
+.tooltip:hover:before, .tooltip2:hover:before, .tooltip3:hover:before { border-color: #444 transparent;}
+.tooltip:hover:after, .tooltip2:hover:after, .tooltip3:hover:after { background: none repeat scroll 0 0 #444; color: #fff;}
+
+/* private chat color message */
+
+.target_private {color:#fff; background:#333;}
+.hunter_private {color:#fff; background:#03add8;}
+
+/* inside chat color */
+.datechat {color:#666;}
+.me {color:#003366; background:#E8F2FC;}
+.global { color:#5f1d1d; background:#ffecec;}
+.private { color:#294229; background:#daf0da;}
+.private_reply { background:#8ea68e; color:#fff;}
+.seen { color:#3f2d4f; background:#eeeaf2;}
+.delete_log, .logs_date {color:#ccc;}
+
+/* user color and special user color */
+.system { color:#666 !important;}
+.admin{ color:#cc0033;}
+.sadmin { color:#f76cfa; }
+.modo  {color:#0066ff !important;}
+.vip {color:#02b076;}
+.user {color:#555;}
+.guest {color:orange;}
+
+/* color picker and tools bar */
+
+.bar_options{ border-left:1px solid #ccc; border-right:1px solid #808080;} /* change the bar element separator */
+#picker_box, #list_emoticon { background:#ccc; box-shadow:0 0 5px #000;} /* change the background color of box */
+.sel_item { background:#f68bf9;} /* change background of element when selected on bar */
+.pick_color, #smile_content, .wrap_picker { border-left:1px solid #444; border-bottom:1px solid #666; border-top:1px solid #444; border-right:1px solid #666; } /* change border of element and subelement */
+#smile_content { background:#fff;} /* change background of emoticon content */
+#main_emoticon { background:#bbb; }
+/* user list hover name */
+
+.usertarget:hover { color:#fff !important; opacity:1; }
+.open_user { background:#ededed; }
+.open_user:hover { background:#ccc; }

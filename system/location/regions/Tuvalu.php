@@ -1,0 +1,10 @@
+Fanafuti
+Fongafale
+Nanumanga
+Nanumea
+Niulakita
+Niutao
+Nui
+Nukulaelae
+Nukufetau
+Vaitupu

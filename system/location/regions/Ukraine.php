@@ -1,0 +1,26 @@
+Cherkas
+Chernihivs
+Chernivets
+Dnipropetrovs
+Donets
+Ivano-Frankivs
+Kharkivs
+Khersons
+Khmel nyts
+Kirovohrads
+Krym
+Kyyiv
+L'vivs
+Luhans
+Mykolayivs
+Odes
+Poltavs
+Rivnens
+Sevastopol
+Sums
+Ternopils
+Vinnyts
+Volyns
+Zakarpats
+Zaporiz
+Zhytomyrs

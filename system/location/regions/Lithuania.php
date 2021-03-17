@@ -1,0 +1,10 @@
+Alytaus
+Kauno
+Klaipedos
+Marijampoles
+Panevezio
+Siauliu
+Taurages
+Telsiu
+Utenos
+Vilniaus

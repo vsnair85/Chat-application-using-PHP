@@ -1,0 +1,55 @@
+
+.fa-2x { color:#fff; }
+.fa-2x:hover { color:#9a0000; }
+.new_incoming { color:red;}
+.link_pro { color:#fff;}
+.icon_bar { color:#fff;}
+
+/* user rank icons */
+
+.a_ico { color:#999 !important; }
+.sa_ico { color:yellow !important; }
+.m_ico { color:#888 !important; }
+.v_ico { color:#888 !important; }
+
+/* user gender icons */
+
+.boy { color:#0066ff; }
+.girl { color:#ff66ff;}
+
+/* to edit individual icon color uncomment next section */
+
+/*
+
+.ic_setting { color:#fff;}
+.ic_profile { color:#fff;}
+.ic_userlist { color:#fff;}
+.ic_plus { color:#fff;}
+.ic_play { color:#fff;}
+.ic_vol { color:#fff;}
+.ic_logout { color:#fff;}
+
+.ic_user { color:#fff;}
+.ic_room { color:#fff;}
+.ic_private { color:#fff;}
+.ic_friend { color:#fff;}
+.ic_find { color:#fff;}
+
+.ic_history { color:#fff;}
+.ic_personal { color:#fff;}
+
+.see_image { color:#fff;}
+.copy_link { color:orange;}
+
+.ic_suser { color:#fff;}
+.ic_sroom { color:#fff;}
+.ic_ssetting { color:#fff;}
+.ic_word { color:#fff;}
+
+.new_incoming { color:#fff;}
+
+.top_icon_close { color:#fff;}
+
+.remove_element { color:#fff;}
+
+*/

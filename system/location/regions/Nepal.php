@@ -1,0 +1,14 @@
+Bagmati
+Bheri
+Dhawalagiri
+Gandaki
+Janakpur
+Karnali
+Kosi
+Lumbini
+Mahakali
+Mechi
+Narayani
+Rapti
+Sagarmatha
+Seti

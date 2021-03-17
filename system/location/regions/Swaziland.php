@@ -1,0 +1,4 @@
+Hhohho
+Lubombo
+Manzini
+Shiselweni

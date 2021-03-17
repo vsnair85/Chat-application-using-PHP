@@ -1,0 +1,3 @@
+Atafu
+Fakaofo
+Nukunonu

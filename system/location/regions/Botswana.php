@@ -1,0 +1,9 @@
+Central
+Ghanzi
+Kgalagadi
+Kgatleng
+Kweneng
+North-East
+North-West
+South-East
+Southern
